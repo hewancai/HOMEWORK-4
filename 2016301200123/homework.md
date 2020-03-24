@@ -10,7 +10,7 @@ nslookup www.whu.edu.cn
 
 执行上述指令得：
 
-![nslook](static\nslookup.png)
+<img src="static\nslookup.png" alt="nslookup_result"/>
 
 ## 课本练习题
 
@@ -55,15 +55,15 @@ server_socket.close()
 
 运行该程序于PC，同时配置局域网下的另一台设备（树莓派）的浏览器代理服务器：
 
-![raspberry_setting](static\raspberry_setting.png)
+<img src="static\proxy_setting.png" alt="proxy_setting"/>
 
 在树莓派端访问http://whu.edu.cn?method=GET：
 
-![sending_GET](static\sending_GET.png)
+<img src="static\sending_GET.png" alt="sending_GET"/>
 
 在PC端的TCPServer.py打印结果如下：
 
-![result_received](static\result_received.png)
+<img src="static\result_received.png" alt="result_received"/>
 
 ### P13
 
