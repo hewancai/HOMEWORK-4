@@ -6,7 +6,7 @@
 
 #### nslookup  www.whu.edu.cn
 
-![image](images\nslookup.png)
+![image](images/nslookup.png)
 
 
 
@@ -16,7 +16,7 @@
 
 ### 1、P8
 
-##### ![image](images\P8.png)
+##### ![image](images/P8.png)
 
   解：
 
@@ -35,7 +35,7 @@ c.
 
 ### 2、P14
 
-##### ![image](images\P14.png) 
+##### ![image](images/P14.png) 
 
   解：
 
@@ -47,7 +47,7 @@ c.
 
 ### 3、P23
 
-![image](images\P23.png)
+![image](images/P23.png)
 
   解：
 
