@@ -66,4 +66,4 @@ c.
 ​               NF/us <= F/dmin
 ​               t = F/dmin = max{NF/us, F/dmin}
 
-​        因此：得出最小分发时间为 max{NF/us，F/dmin}
+         所以最小分发时间为 max{NF/us，F/dmin}
